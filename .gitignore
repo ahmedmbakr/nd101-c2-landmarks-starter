@@ -1,0 +1,4 @@
+/landmark_project/landmark_images/
+*.pt
+**/.ipynb_checkpoints
+/.idea/
